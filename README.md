@@ -31,3 +31,7 @@ A simple, interactive Python web app built with **Streamlit** to help you compar
 ```bash
 git clone https://github.com/yourusername/fantasy-football-app.git
 cd fantasy-football-app
+
+### 2. Launch app with Streamlit
+```bash
+streamlit run app\compare_app.py
