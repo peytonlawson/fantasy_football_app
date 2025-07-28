@@ -20,7 +20,7 @@ A simple, interactive Python web app built with **Streamlit** to help you compar
 
 ## 📸 Demo
 
-!![alt text]([https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://github.com/peytonlawson/fantasy_football_app/blob/main/src/fantasy%20football%20app.png) "Logo Title Text 1")  
+!![alt text](https://github.com/peytonlawson/fantasy_football_app/blob/main/src/fantasy%20football%20app.png "Logo Title Text 1")  
 > *Optional: Replace this with an actual screenshot from your running app.*
 
 ---
