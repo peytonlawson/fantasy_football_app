@@ -20,7 +20,7 @@ A simple, interactive Python web app built with **Streamlit** to help you compar
 
 ## 📸 Demo
 
-![App Screenshot](docs/screenshot.png)  
+![App Screenshot](src/fantasy football app.png)  
 > *Optional: Replace this with an actual screenshot from your running app.*
 
 ---
